@@ -2,7 +2,7 @@
     margin:0;
     padding:0;
     box-sizing:border-box;
-    font-family: Times New Roman, Comic Sans MS;
+    font-family:  Comic Sans MS;
 }
 
 body{
@@ -63,7 +63,9 @@ section{
     align-items:center;
     color:#777;
     font-size:18px;
-    box-shadow:0 2px 5px rgba(0,0,0,0.1);
+    box-shadow:0 6px 15px rgba(0,0,0,0.15);
+    border:3px solid #e8f0fe;
+    transition:0.3s;
 }
 
 .skills{
